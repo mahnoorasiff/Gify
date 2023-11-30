@@ -1,0 +1,3 @@
+API_KEY = 'hKd8RAuyG9yTm72kRFWoMZ7TrD4smRQk';
+TRENDING_API = 'https://api.giphy.com/v1/gifs/trending';
+SEARCH_API = 'https://api.giphy.com/v1/gifs/search';

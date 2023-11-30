@@ -67,3 +67,5 @@ yarn-error.log
 
 #nodemodules
 node_modules/
+#env
+.env

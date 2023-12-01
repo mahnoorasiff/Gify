@@ -1,4 +1,4 @@
-export interface GifProps {
+export interface IGifProps {
   id: string;
   title: string;
   images: {

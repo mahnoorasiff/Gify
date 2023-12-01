@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
 import {View,Text, Image, StyleSheet} from 'react-native';
-import { GifProps } from './types';
+import { IGifProps } from './types';
 
-const Gif: React.FC<GifProps> = ({ data }) => {
+const Gif: React.FC<IGifProps> = ({ data }) => {
   
   return (
     
